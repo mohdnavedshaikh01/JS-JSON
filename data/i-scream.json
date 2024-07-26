@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Galactic Grape",
+      "calories": 370,
+      "type": "ice cream",
+      "ingredients": [
+        "grape puree",
+        "vanilla bean",
+        "purple glitter"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Twisted Toffee",
+      "calories": 390,
+      "type": "gelato",
+      "ingredients": [
+        "crunchy toffee pieces",
+        "espresso cream",
+        "sea salt flakes"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
